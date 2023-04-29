@@ -1,10 +1,10 @@
-##Before plot
+# Before plot
 
 ![](./before.png)
 
-##After plot
+# After plot
 
-![](./after.png)
+![](./afterr.png)
 
 This plot is taken from the course, in particular the exercise of plotting GRB afterglows photometric data.
 I removed the upper limit arrows as they were not used in the modeling afterwards. I then rescaled the x axis to show the data properly and to diminish clutter.
